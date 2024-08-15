@@ -1,0 +1,8 @@
+{
+	"Module Paths": {
+		"Sheet1": "Sheet1.cls",
+		"ThisWorkbook": "ThisWorkbook.cls",
+		"UserForm1": "UserForm1.frm",
+		"Module1": "Module1.bas"
+	}
+}
